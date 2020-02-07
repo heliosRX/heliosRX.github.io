@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{203:function(n,t,e){"use strict";e.r(t);var i={props:{padding:{type:String,default:"2rem"}}},p=e(0),s=Object(p.a)(i,(function(){var n=this.$createElement;return(this._self._c||n)("div",{style:"padding: "+this.padding+" 0"})}),[],!1,null,null,null);t.default=s.exports}}]);
